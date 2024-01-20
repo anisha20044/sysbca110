@@ -12,7 +12,12 @@ public class add2numbers {
 	        int num2=scan.nextInt();
 	        sum = num1 + num2;  
 	        System.out.println("The sum of two numbers is: "+sum);  
-	    }  
+	    } 
+	 void subtract() {
+		 int num1=4,num2=2,subtract=0;
+		 subtract=num1-num2;
+		 System.out.println("Sub of two number is: "+subtract);
+	 }
 }  
 	
 	
